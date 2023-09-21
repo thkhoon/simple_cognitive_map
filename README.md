@@ -2,7 +2,7 @@
 
 A simple project on generating cognive map for the vsually impaired
 
-|||
+|Project Info||
 |---|---|
 |Author| Mr. Yeong Yi Cheng|
 | Trimester | June 2023|
